@@ -1,6 +1,6 @@
 package fit.challenge;
 
-
+import fit.challenge.ImcCalculator;
 
 import org.junit.Assert;
 import org.junit.Test;
